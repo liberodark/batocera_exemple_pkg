@@ -12,7 +12,7 @@ Here you will find the sample package. This package is for the BATOCERA emulatio
 - Connect in SSH, then run the command `pacman -U example.pkg.tar.xz` in this folder.
 
 ## Remove the package
-- Connectez vous en SSH à votre système BATOCERA
+- Connect in SSH to your BATOCERA system
 - Run the command `pacman -R exemple`
 
 ## Links
