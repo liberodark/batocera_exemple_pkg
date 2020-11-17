@@ -1,0 +1,12 @@
+gamelist = windows
+ <game>
+   <path>./game.exe</path>
+   <name>My Game</name>
+   <desc>My First Package.</desc>
+   <releasedate>20131013T000000</releasedate>
+   <developer>Exemple</developer>
+   <genre>Beat'em All</genre>
+   <players>1-4</players>
+   <image>./images/exemple.jpg</image>
+   <video>./videos/exemple.mp4</video>
+ </game>
