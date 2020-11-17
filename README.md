@@ -20,4 +20,4 @@ BATOCERA -> https://batocera.org/
 
 Wiki BATOCERA Pacman Manager -> https://wiki.batocera.org/pacman_package_manager
 
-Exemple by inrepublica
+Exemple based on inrepublica work
