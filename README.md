@@ -19,3 +19,5 @@ Here you will find the sample package. This package is for the BATOCERA emulatio
 BATOCERA -> https://batocera.org/
 
 Wiki BATOCERA Pacman Manager -> https://wiki.batocera.org/pacman_package_manager
+
+By inrepublica
