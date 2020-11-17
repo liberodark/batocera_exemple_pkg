@@ -1,12 +1,12 @@
-gamelist = openbor
+gamelist = windows
  <game>
-   <path>./he-man_v2.10.pak</path>
-   <name>HE-MAN</name>
-   <desc>A fan made fighting game with HE-MAN, Man-At-Arms, BattleCat, Sorceress, Skeletor, Evil-Lyn, She-Ra , Ram-Man , Teela and Lion-O.</desc>
+   <path>./game.exe</path>
+   <name>My Game</name>
+   <desc>My First Package.</desc>
    <releasedate>20131013T000000</releasedate>
-   <developer>bWWd</developer>
+   <developer>exemple</developer>
    <genre>Beat'em All</genre>
    <players>1-4</players>
-   <image>./images/he-man.png</image>
-   <video>./videos/he-man.mp4</video>
+   <image>./images/exemple.png</image>
+   <video>./videos/exemple.mp4</video>
  </game>
