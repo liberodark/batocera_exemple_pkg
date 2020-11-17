@@ -1,9 +1,9 @@
-pkgname = HE-MAN
+pkgname = EXEMPLE
 pkgver = 2.1.0-1
-pkgdesc = Fighting with HE-MAN for OpenBor
+pkgdesc = Fighting for Windows
 arch = any
-group = sys-openbor
+group = sys-windows
 packager = inrepublica
-url = https://gamejolt.com/games/he-man/19434
+url = https://url_of_game
 size = 208666624
 builddate = 1605601373
